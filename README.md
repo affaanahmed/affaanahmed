@@ -1,5 +1,10 @@
 ### Hi there 👋
-###testline 1
+name: affaan ahmed
+i am a student in reva university
+i saty in bengluru 
+im so alone
+
+
 <!--
 **affaanahmed/affaanahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
